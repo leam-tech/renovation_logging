@@ -1,0 +1,30 @@
+{
+ "creation": "2019-12-17 17:59:05.179586",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "tag"
+ ],
+ "fields": [
+  {
+   "fieldname": "tag",
+   "fieldtype": "Link",
+   "in_list_view": 1,
+   "label": "Tag",
+   "options": "Renovation Log Tag",
+   "reqd": 1
+  }
+ ],
+ "istable": 1,
+ "modified": "2019-12-17 17:59:05.179586",
+ "modified_by": "Administrator",
+ "module": "Renovation Logging",
+ "name": "Renovation Log Tag Selector",
+ "owner": "Administrator",
+ "permissions": [],
+ "quick_entry": 1,
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "track_changes": 1
+}

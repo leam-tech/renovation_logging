@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include renovation_logging *.css
+recursive-include renovation_logging *.csv
+recursive-include renovation_logging *.html
+recursive-include renovation_logging *.ico
+recursive-include renovation_logging *.js
+recursive-include renovation_logging *.json
+recursive-include renovation_logging *.md
+recursive-include renovation_logging *.png
+recursive-include renovation_logging *.py
+recursive-include renovation_logging *.svg
+recursive-include renovation_logging *.txt
+recursive-exclude renovation_logging *.pyc
